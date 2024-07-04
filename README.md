@@ -1,6 +1,3 @@
- [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Ftrk-hava-kuvvetleri-111-filo-panterler-f4e2020-anadolu-kartallar-tatbikat-2019-sametturgutr-solotr--598626975452753553%2F&psig=AOvVaw07uItp_K07MVd8_Y2vCFR9&ust=1720181773947000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCICfjdOujYcDFQAAAAAdAAAAABAJ)
-
-
 <h1 align="center">Hi 👋, I'm OrigS</h1>
 <h3 align="center">A passionate electronics and software developer from Turkiye</h3>
 
