@@ -5,11 +5,10 @@
 
 - 🌱 I’m currently learning **UAV and 3D Modeling**
 
-- 📫 How to reach me **mustafabaysal1003@gmail.com and discord:origs**
+- 📫 How to reach me **discord:origs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/mustafa._.baysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mustafa._.baysal" height="30" width="40" /></a>
 <a href="https://discord.gg/origs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="origs" height="30" width="40" /></a>
 </p>
 
